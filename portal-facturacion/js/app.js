@@ -1,0 +1,1 @@
+// app.js - scripts futuros (vacío por ahora)
